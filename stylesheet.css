@@ -1,0 +1,140 @@
+
+#menu_background{
+    background-image: url(elementer/Gamestart.svg);
+    background-size: cover;
+    width: 80vw;
+    height: 45vw;
+    margin: auto;
+
+
+}
+
+#game_background{
+    background-image: url(elementer/Spilleside.svg);
+    background-size: cover;
+    width: 80vw;
+    height: 45vw;
+    margin: auto;
+    background-repeat: no-repeat;
+    position: relative;
+
+
+
+
+}
+
+#time{
+    background-image: url(elementer/Timer.svg);
+    background-repeat: no-repeat;
+    position: relative;
+
+
+}
+
+
+
+#start{
+    background-image: url(elementer/)
+
+
+}
+
+
+
+#game{
+    position: relative;
+}
+#game_elements{
+
+position: relative;
+
+
+}
+
+#settings{
+    background-image: url(elementer/Settings.svg);
+    background-repeat: no-repeat;
+    display: none;
+    height: 45vw;
+    width: 80vw;
+
+
+}
+
+
+
+
+
+#gameover{
+    background-image: url(elementer/GameOver.svg);
+    background-repeat: no-repeat;
+    display: none;
+    height: 45vw;
+    width: 80vw;
+
+
+}
+
+
+#levelcomplete{
+    background-image: url(elementer/Stagecomplete.svg);
+    background-repeat: no-repeat;
+    display: none;
+    height: 45vw;
+    width: 80vw;
+
+
+
+
+}
+
+
+
+#angrylady{
+    background-image: url(elementer/Arablady.svg);
+    background-repeat: no-repeat;
+    height: 9vw;
+    width: 16vw;
+
+
+}
+
+#french{
+    background-image: url(elementer/Frenchguy.svg);
+    background-repeat: no-repeat;
+    position: relative;
+    height: 9vw;
+    width: 16vw;
+    top: 10vw;
+    right: 10vw;
+    z-index: 1;
+
+
+}
+
+#conor{
+    background-image: url(elementer/Conor.svg);
+    background-repeat: no-repeat;
+    height: 9vw;
+    width: 16vw;
+    top: 16vw;
+    right: 19vw;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
