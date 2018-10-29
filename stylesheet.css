@@ -1,8 +1,31 @@
+#scene{
+    width: 100vw;
+    height: 56.25vw;
+    position: relative;
+
+
+
+}
+
+#background{
+
+/*    img*/
+    width: 100vw;
+    height: 56.25vw;
+    background-size: 100%;
+
+
+
+}
+
+
+
+
 
 #menu_background{
     background-image: url(elementer/Gamestart.svg);
     background-size: cover;
-    width: 80vw;
+    width: 100vw;
     height: 45vw;
     margin: auto;
 
